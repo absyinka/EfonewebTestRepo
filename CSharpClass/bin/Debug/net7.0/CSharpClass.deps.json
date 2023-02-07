@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CSharpClass/1.0.0": {
+        "dependencies": {
+          "BasicSolution": "1.0.0"
+        },
+        "runtime": {
+          "CSharpClass.dll": {}
+        }
+      },
+      "BasicSolution/1.0.0": {
+        "runtime": {
+          "BasicSolution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
